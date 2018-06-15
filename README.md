@@ -1,2 +1,2 @@
 # IOT_WeatherApp
-IOT-J2EE-AWS-Docker-Jenkins combo app
+IOT-J2EE(SpringMVC-SpringBoot)-AWS-Docker-Jenkins combo app
